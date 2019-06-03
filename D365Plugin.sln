@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D365Plugin", "D365Plugin\D365Plugin.csproj", "{0CFC2652-C123-443D-BB64-348F66B63EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResources", ".\WebResources\WebResources.csproj", "{2D635FB9-DE54-4B94-8C79-61AA9B93B76A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CFC2652-C123-443D-BB64-348F66B63EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFC2652-C123-443D-BB64-348F66B63EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFC2652-C123-443D-BB64-348F66B63EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFC2652-C123-443D-BB64-348F66B63EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D635FB9-DE54-4B94-8C79-61AA9B93B76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D635FB9-DE54-4B94-8C79-61AA9B93B76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D635FB9-DE54-4B94-8C79-61AA9B93B76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D635FB9-DE54-4B94-8C79-61AA9B93B76A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9A7F6A6-0833-40CD-99D1-63BCB6C32521}
+	EndGlobalSection
+EndGlobal
