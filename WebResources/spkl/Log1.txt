@@ -1,0 +1,9 @@
+6:39:22 PM	Deploying WebResources
+6:39:22 PM	Using Config 'C:\Users\Jesus\source\repos\D365Plugin\WebResources'
+6:39:24 PM	Creating Webresource 'D365_resources\js\checkin.js' -> 'D365_resources/js/checkin.js'
+6:39:24 PM	Adding to solution 'SamplePlugin'
+6:39:25 PM	Deployed 1 webresource(s)
+6:39:25 PM	Publishing 1 webresources...
+6:39:31 PM	Publish complete.
+6:39:31 PM	Processed 1 section(s)
+6:39:31 PM	Processed 1 config(s)

@@ -1,0 +1,10 @@
+4:56:55 PM	Deploying Plugins
+4:56:55 PM	Searching for plugin config in 'C:\Users\Jesus\source\repos\D365Plugin\D365Plugin\spkl\..'
+4:56:55 PM	Using Config 'C:\Users\Jesus\source\repos\D365Plugin\D365Plugin'
+4:56:55 PM	Checking assembly 'SF365.D365Plugin.dll' for plugins
+4:56:55 PM	2 plugin(s) found!
+4:56:56 PM	Registering Plugin 'SF365.D365Plugin' from 'C:\Users\Jesus\source\repos\D365Plugin\D365Plugin\bin\Debug\SF365.D365Plugin.dll'
+4:56:56 PM	Registering Type 'SF365.D365Plugin.AccountPlugin'
+4:56:57 PM	Registering Step 'Pre-Update Account'
+4:56:57 PM	Registering Image 'PreImage'
+4:56:58 PM	Processed 1 config(s)
